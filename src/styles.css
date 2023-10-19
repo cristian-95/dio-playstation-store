@@ -1,1 +1,19 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', 'sans-serif';
+}
+
+body {
+  background-image: url('https://images2.alphacoders.com/104/1041188.jpg');
+  background-size: cover;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+}

@@ -1,0 +1,39 @@
+.menu-bar-container{
+  display: flex;
+  flex-direction: row;
+  z-index: 999;
+  width: 100%;
+  height: 80px;
+  background-color: white;
+  box-shadow: 0 0 5px 0 rgb(0, 0, 0, 0.5);
+
+}
+
+.menu-bar-logo{
+  margin-left: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.menu-bar-options{
+  margin-left: 100px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+
+}
+
+.menu-bar-options > ul{
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+.menu-bar-options > ul > li{
+  margin-left: 100px;
+  font-size: 18px;
+
+}
+.menu-bar-options > ul > li > a:hover{
+  color: #3f3f3f;
+}

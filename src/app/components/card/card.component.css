@@ -1,0 +1,27 @@
+.card-container{
+  border-radius: 5px;
+
+  margin-top: 10px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  height: 500px;
+  width: 400px;
+}
+
+.card-cover{
+  min-width: 100%;
+  min-height: 100%;
+  transition: transform 0.8s;
+}
+
+.card-cover > img {
+  width: 100%;
+
+  margin-top: auto;
+  margin-left: auto;
+}
+
+.card-cover:hover{
+  transform: scale(1.1);
+}

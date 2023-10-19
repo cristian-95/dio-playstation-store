@@ -1,0 +1,19 @@
+.label-container{
+  position: absolute;
+  bottom: 15%;
+  right: 0;
+  width: 100px;
+}
+
+.content{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #0d0d0dcb;
+  color: #ffffff;
+}
+
