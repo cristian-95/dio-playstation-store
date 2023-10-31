@@ -92,7 +92,7 @@ export const games = [
   {
     id: "10",
     gameTitle: "Sackboy: A Big Adventure",
-    imgUrl: "https://cdn1.epicgames.com/offer/1b60f39de33b4902a8d5fa543b1fb628/EGS_SackboyABigAdventure_SumoDigital_S2_1200x1600-cc68022e4d17a383c8571dc43586353c",
+    imgUrl: "https://sm.ign.com/ign_br/cover/s/sackboy-a-/sackboy-a-big-adventure_3svw.jpg",
     label: "EXCLUSIVE",
     cardText: "Buy Now!",
     gameCondition: "Full Game",
